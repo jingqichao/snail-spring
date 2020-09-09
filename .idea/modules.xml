@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-spring.iml" filepath="$PROJECT_DIR$/.idea/git-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snail-spring/snail-spring.iml" filepath="$PROJECT_DIR$/snail-spring/snail-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snail-spring/spring01_jdbc/spring01_jdbc.iml" filepath="$PROJECT_DIR$/snail-spring/spring01_jdbc/spring01_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snail-spring/spring02_factory/spring02_factory.iml" filepath="$PROJECT_DIR$/snail-spring/spring02_factory/spring02_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snail-spring/spring03_ioc/spring03_ioc.iml" filepath="$PROJECT_DIR$/snail-spring/spring03_ioc/spring03_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snail-spring/spring04_bean/spring04_bean.iml" filepath="$PROJECT_DIR$/snail-spring/spring04_bean/spring04_bean.iml" />
+    </modules>
+  </component>
+</project>

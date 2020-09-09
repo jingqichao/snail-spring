@@ -6,9 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring02_factory" />
         <module name="spring01_jdbc" />
+        <module name="spring03_ioc" />
+        <module name="spring02_factory" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="snail-spring" target="7" />
+      <module name="spring01_jdbc" target="7" />
+      <module name="spring02_factory" target="7" />
+      <module name="spring03_ioc" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
